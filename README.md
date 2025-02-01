@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=200&section=header&text=FELIPE+DEV&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=200&section=header&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
   
