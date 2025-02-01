@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=35&center=true&vCenter=true&width=1000&lines=HI,+I+am+Felipe+Afonso;I'm+34+years+old;I+am+from+Londrina,+PR;I+study+information+systems;Be+Welcome!🚀)](https://github.com/Felipeafdev)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6474B9&size=40&center=true&vCenter=true&width=1000&lines=HI,+I+am+Felipe+Afonso;I'm+34+years+old;I+am+from+Londrina,+PR;I+study+information+systems;Be+Welcome!🚀)](https://github.com/Felipeafdev)
 
 </div>
 <div align="center">
