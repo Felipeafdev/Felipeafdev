@@ -13,7 +13,10 @@
   </div>
 </div>
 
-</br>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=150&height=20&lines=Technologies" alt="Typing SVG" /> 
+ <div>
+   	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img alt="React" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" target="_blank"></a>
+ </div>
 
 ## <a href="https://www.linkedin.com/in/felipe-afonso-606359227/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
 
