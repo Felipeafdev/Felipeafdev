@@ -8,14 +8,22 @@
 
 <div align="center">
   <div aling="center">
-     <img width="410px" height="175px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Felipeafdev&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Felipe Afonso github stats" />
+     <img width="410px" height="170px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Felipeafdev&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Felipe Afonso github stats" />
     <img width="410px" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeafdev&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
   </div>
 </div>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=150&height=20&lines=Technologies" alt="Typing SVG" /> 
+
  <div>
-   	<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img alt="Java" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"></a>
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img alt="Java" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img alt="python" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img alt="typescript" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img alt="Js" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"><img alt="HTML" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" target="_blank"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img alt="CSS" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" target="_blank"></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img alt="TailwindCSS" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" target="_blank"></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img alt="Figma" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" target="_blank"></a>
  </div>
 
 ## <a align="center" href="https://www.linkedin.com/in/felipe-afonso-606359227/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
