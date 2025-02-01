@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=FELIPE+DEV&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=200&section=header&text=FELIPE+DEV&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
   
@@ -16,6 +16,7 @@
 ## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=150&height=20&lines=Technologies" alt="Typing SVG" /> 
 
  <div>
+   
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img alt="Java" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank"></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img alt="python" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank"></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img alt="typescript" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" target="_blank"></a>
@@ -24,14 +25,17 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img alt="CSS" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" target="_blank"></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img alt="TailwindCSS" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" target="_blank"></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img alt="Figma" height="55" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" target="_blank"></a>
+
  </div>
 
 ## <a align="center" href="https://www.linkedin.com/in/felipe-afonso-606359227/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=6474B9&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
 
 <div>
-  <a href="https://discord.com/channels/@me/925586869255831643" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/felipe-afonso-606359227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  
+<a href="https://discord.com/channels/@me/925586869255831643" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/felipe-afonso-606359227/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+
 </div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=200&section=footer&text=Transform+the+impact+of+your+bussines&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=65"/>
 
