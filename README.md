@@ -7,8 +7,8 @@
 </div>
 <div align="center">
   <div aling="center">
-    <img width="410px" height="170px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Felipeafdev&show_icons=true&count_private=true&hide_border=true&title_color=0:542F88,100:880062&icon_color=0:542F88,100:880062&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Felipe Afonso github stats" />
-    <img width="410px" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeafdev&layout=compact&hide_border=true&title_color=0:542F88,100:880062&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
+    <img width="410px" height="170px"  align="center" src="https://github-readme-stats.vercel.app/api?username=Felipeafdev&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=E34C26&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Felipe Afonso github stats" />
+    <img width="410px" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipeafdev&layout=compact&hide_border=true&title_color=36BCF7&text_color=937CD5&bg_color=0a0c10&thme=transparent" />
 </div>
   
 <div style="display: flex; justify-content: center;">
